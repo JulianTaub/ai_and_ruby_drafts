@@ -71,8 +71,8 @@ presentation 'AI and Ruby' do
 
 
   slide "What We Used" do
-    # image 'sql.jpg', 'redis'
-    point "SQLite, Redis, Sidekiq, Rails"
+    image 'ai_stack.jpg' 
+    # point "SQLite, Redis, Sidekiq, Rails"
 
   end
 
